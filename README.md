@@ -13,7 +13,7 @@ See the GNU General Public License for more details https://opensource.org/
 You should have received a copy of the GNU General Public License along with this program; 
 if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
-How to use it, after having created a VPN Server on your Ubiquiti network (many tutorial are available on YouTube):
+How to use it, after having created a VPN Server on your Ubiquiti network (many tutorials are available on YouTube):
 
 1) Execute the regfile by simply double clicking it or importing in RegEdit on Windows
 2) Enable MS-CHAP Protocol under:
